@@ -1,0 +1,3 @@
+C:/Users/zyklox/Desktop/MY/prog/VS_code/++/study/sem_2/lab1/build/CMakeFiles/lab1.dir
+C:/Users/zyklox/Desktop/MY/prog/VS_code/++/study/sem_2/lab1/build/CMakeFiles/edit_cache.dir
+C:/Users/zyklox/Desktop/MY/prog/VS_code/++/study/sem_2/lab1/build/CMakeFiles/rebuild_cache.dir
